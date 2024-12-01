@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ecology
-permalink: /ecolog/
+permalink: /ecology/
 ---
 
 Information on ecology
