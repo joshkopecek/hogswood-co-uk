@@ -19,3 +19,11 @@ Transition Town Okehampton [website](https://cagdevon.org.uk/ourgroups/transitio
 Wild Oke [facebook](https://www.facebook.com/groups/wildoke/)
 
 West Devon Borough Council Councillors [website](https://www.westdevon.gov.uk/your-council/councillors-and-committees/your-councillors/councillors-ward)
+
+![leaves](/assets/images/leaves.jpg)
+
+![satellite](/assets/images/maps/satellite.jpg)
+
+![modern-os](/assets/images/maps/modern-os.jpg)
+
+![modern-perimeter](/assets/images/maps/modern-perimeter.jpg)
