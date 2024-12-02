@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "?",
+    "Role": null,
+    "Orgs": "WDBC",
+    "Email": null,
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "?",
+    "Role": null,
+    "Orgs": "Devon Wildlife Trust",
+    "Email": null,
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "David Blake",
+    "Role": null,
+    "Orgs": "Transition Town Okehampton",
+    "Email": "djhblake@hotmail.com",
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "Jane Habermehl",
+    "Role": null,
+    "Orgs": "Transition Town Okehampton",
+    "Email": "jane.habermehl@okehampton.org",
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "Stuart Norris",
+    "Role": null,
+    "Orgs": "Wild Okey",
+    "Email": null,
+    "Website": null,
+    "Social": "Facebook"
+  },
+  {
+    "Name": "?",
+    "Role": null,
+    "Orgs": "Wild Okey",
+    "Email": null,
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "Matt Parkins",
+    "Role": "Wildlife Warden",
+    "Orgs": null,
+    "Email": null,
+    "Website": null,
+    "Social": "Facebook"
+  },
+  {
+    "Name": "George Dexter",
+    "Role": "Local councillor",
+    "Orgs": "WDBC",
+    "Email": "Cllr.George.Dexter@westdevon.gov.uk",
+    "Website": null,
+    "Social": null
+  },
+  {
+    "Name": "Tony Leech",
+    "Role": "Local councillor",
+    "Orgs": "WDBC",
+    "Email": null,
+    "Website": "https://democracy.swdevon.gov.uk/mgUserInfo.aspx?UID=138",
+    "Social": null
+  },
+  {
+    "Name": "Kevin Ball",
+    "Role": "Local councillor",
+    "Orgs": "WDBC",
+    "Email": "kevin.ball@devon.gov.uk",
+    "Website": null,
+    "Social": null
+  }
+]
