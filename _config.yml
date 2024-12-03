@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hog's Wood - Okehampton
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogswood.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-V3CDCRQLPP
 
 # Build settings
 theme: minima
