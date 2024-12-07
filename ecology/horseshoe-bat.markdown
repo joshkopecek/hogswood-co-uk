@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Horseshoe Bat
+title: Greater Horseshoe Bat
 ---
 
-## Greater Horseshoe Bat: Urban Coexistence
+## Urban Coexistence
 
 * The Greater Horseshoe Bat (Rhinolophus ferrumequinum) is native to Europe, North Africa, and Asia
 * The GHB is Near Threatened (IUCN), protected under EU Habitats Directive and Wildlife and Countryside Act in the UK
