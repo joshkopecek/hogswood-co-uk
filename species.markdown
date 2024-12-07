@@ -1,11 +1,8 @@
 ---
 layout: datatable
+title: Species
+permalink: /species/
 ---
-Species
-
-### Coming soon
-
-
 <table id="datatable">
  <thead>
     <tr>
