@@ -27,13 +27,13 @@ Do you have any information about Hog's Wood?
 
 ## Links
 
-Transition Town Okehampton [website](https://cagdevon.org.uk/ourgroups/transition-town-okehampton/) [facebook](https://www.facebook.com/profile.php?id=61556834173991)
+[Transition Town Okehampton website](https://cagdevon.org.uk/ourgroups/transition-town-okehampton/) or [facebook](https://www.facebook.com/profile.php?id=61556834173991)
 
 Wild Oke [facebook](https://www.facebook.com/groups/wildoke/)
 
-West Devon Borough Council Councillors [website](https://www.westdevon.gov.uk/your-council/councillors-and-committees/your-councillors/councillors-ward)
+[West Devon Borough Council Councillors website](https://www.westdevon.gov.uk/your-council/councillors-and-committees/your-councillors/councillors-ward)
 
-Devon Wildlife Trust [website](https://www.devonwildlifetrust.org/)
+[Devon Wildlife Trust website](https://www.devonwildlifetrust.org/)
 
 ![satellite](/assets/images/maps/satellite.jpg)
 

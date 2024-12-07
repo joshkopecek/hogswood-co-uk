@@ -35,7 +35,7 @@ header_pages:
   - index.markdown
   - history.markdown
   - ecology.markdown
-  - people.markdown
+  # - people.markdown
   - planning.markdown
 
 # Exclude from processing.
