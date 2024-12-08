@@ -1,7 +1,9 @@
 ---
 layout: datatable
 title: Species
+description: A list of the species that have been observed in Hog's Wood, Okehampton
 permalink: /species/
+image: /assets/images/slowworms.jpg
 ---
 <table id="datatable">
  <thead>

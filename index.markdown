@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+description: A website dedicated to a small woodland site in Okehampton, Hog's Wood.
+image: /assets/images/tree.jpg
 ---
 
 ## Send us info

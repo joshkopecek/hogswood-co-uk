@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Ecology
+description: An investigation of the local ecology of Hog's Wood, Okehampton
 permalink: /ecology/
+image: /assets/images/horseshoe-bat.jpeg
 ---
 
 ## Species

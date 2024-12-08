@@ -1,6 +1,9 @@
 ---
 layout: hogswood-surveys-page
 title: Surveys
+description: Surveys carried out on residents close to Hog's Wood, Okehampton
+permalink: /surveys/
+image: /assets/images/surveying-1.jpeg
 ---
 
 ## Green Space Survey conducted by Transition Town Okehampton

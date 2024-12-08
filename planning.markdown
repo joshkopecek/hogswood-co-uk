@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Planning
+description: Information on the planning and access to community rights for Hog's Wood, Okehampton
 permalink: /planning/
+image: /assets/images/maps/hogswood-1800s.jpg
 ---
 
 ### Information on planning
