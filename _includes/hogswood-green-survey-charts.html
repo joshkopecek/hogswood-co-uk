@@ -1,0 +1,192 @@
+<script>
+
+  const greenSurveyChart00 = document.getElementById('hogswood-green-survey-chart00')
+
+  new Chart(greenSurveyChart00, {
+    type: 'bar',
+    data: {
+      labels: [
+        'Walk',
+        'Walk the dog',
+        'Sit and relax',
+        'Allow our children to play there',
+        'Look at plants and wildlife',
+        'Forage wild food or collect fruit',
+        'Something else',
+      ],
+      datasets: [{
+        label: 'Responses',
+        data: [
+          32,
+          21,
+          9,
+          13,
+          37,
+          16,
+          10,
+        ],
+        borderWidth: 2
+      }]
+    },
+    options: {
+      plugins: {
+        legend: {
+          display: false
+        },
+      },
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  })
+
+  const greenSurveyChartDev = document.getElementById('hogswood-green-survey-development')
+
+  new Chart(greenSurveyChartDev, {
+    type: 'bar',
+    data: {
+      labels: [
+        'A community food growing project',
+        'A community hub for learning about nature',
+        ['Allotments over part of the site (leaving the rest for nature) '],
+        'A designated nature reserve ',
+        ['Interpretation boards about the wildlife and plants living there '],
+        'A children\'s play area ',
+        'Improved paths ',
+        'Benches ',
+        'Interpretation board about…',
+        'A clean up ',
+        'A housing development over the whole site ',
+        ['A mixed use development of sustainable', 'buildings on a small part of the site '],
+        'A large car park across the site for the town ',
+        'Lighting ',
+        'Nothing ',
+      ],
+      datasets: [{
+        data: [16,
+          21,
+          27,
+          49,
+          32,
+          18,
+          19,
+          24,
+          21,
+          23,
+          3,
+          5,
+          7,
+          6,
+          8,],
+        borderWidth: 2
+      }]
+    },
+    options: {
+      height: 600,
+      plugins: {
+        legend: {
+          display: false
+        },
+      },
+      indexAxis: 'y',
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  })
+
+  const greenSurveyChartPositivity = document.getElementById('hogswood-green-survey-positivity')
+
+  new Chart(greenSurveyChartPositivity, {
+    type: 'doughnut',
+    data: {
+      labels: [
+        'Very negatively',
+        'Quite negatively',
+        'Neither negatively or positively',
+        'Quite positively',
+        'Very positively',
+      ],
+      datasets: [{
+        label: 'Respondents',
+        data: [
+          2,
+          4,
+          8,
+          13,
+          38,
+        ],
+        backgroundColor: [
+          'rgb(221, 35, 35)',
+          'rgb(221, 100, 35)',
+          'rgb(221, 200, 35)',
+          'rgb(221, 221, 35)',
+          'rgb(57, 221, 35)',
+        ],
+      }]
+    },
+  })
+
+
+  const greenSurveyChartFrequency = document.getElementById('hogswood-green-survey-frequency')
+
+  new Chart(greenSurveyChartFrequency, {
+    type: 'doughnut',
+    data: {
+      labels: [
+        'I go there often (most days when the weather is OK)',
+        'I go there regularly (monthly - weekly)',
+        'I go there sometimes (once a month or less)',
+        'I never go there',
+      ],
+      datasets: [{
+        label: 'Respondents',
+        data: [
+          24,
+          16,
+          12,
+          14,
+        ],
+        backgroundColor: [
+          'rgb(57, 221, 35)',
+          'rgb(160, 221, 35)',
+          'rgb(221, 180, 35)',
+          'rgb(221, 100, 35)',
+        ],
+      }]
+    },
+  })
+
+  const greenSurveyChartGo = document.getElementById('hogswood-green-survey-go')
+
+  new Chart(greenSurveyChartGo, {
+    type: 'doughnut',
+    data: {
+      labels: [
+        'Yes',
+        'No, I look at it sometimes from my house / garden',
+        'No, I know it\'s there but I don\'t really think about it',
+      ],
+      datasets: [{
+        label: 'Respondents',
+        data: [
+          46,
+          13,
+          7,
+        ],
+        backgroundColor: [
+          'rgb(57, 221, 35)',
+          'rgb(160, 221, 35)',
+          'rgb(221, 180, 35)',
+          'rgb(221, 100, 35)',
+        ],
+      }]
+    },
+  })
+
+
+</script>

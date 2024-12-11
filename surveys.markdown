@@ -21,7 +21,9 @@ Greenspace Survey Results
 
 ### Do you go there?
 
-_See presentation for graphs – no figures available_
+<div>
+  <canvas id="hogswood-green-survey-go"></canvas>
+</div>
 
 <br />
 <hr />
@@ -29,7 +31,9 @@ _See presentation for graphs – no figures available_
 
 ### How often?
 
-_See presentation for graphs – no figures available_
+<div>
+  <canvas id="hogswood-green-survey-frequency"></canvas>
+</div>
 
 <br />
 <hr />
@@ -59,7 +63,9 @@ _See presentation for graphs – no figures available_
 
 ### How positively or negatively do you view the site?
 
-_See presentation for graphs – no figures available_
+<div>
+  <canvas id="hogswood-green-survey-positivity"></canvas>
+</div>
 
 <br />
 <hr />
@@ -114,7 +120,7 @@ _See presentation for graphs – no figures available_
 ### What would you like to see done there?
 
 <div>
-  <canvas id="hogswood-green-survey-chart01"></canvas>
+  <canvas id="hogswood-green-survey-development" height="300"></canvas>
 </div>
 
 <br />
