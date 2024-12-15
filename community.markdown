@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Planning
+title: Community
 description: Information on the planning and access to community rights for Hog's Wood, Okehampton
-permalink: /planning/
+permalink: /community/
 image: /assets/images/maps/hogswood-1800s.jpg
 ---
+
+### Surveys
+
+An extensive survey was carried out by Transition Town Okehampton
+
+[Read the full survey results here](/surveys)
 
 ### Information on planning
 
 * An ecology survey was carried out by West Devon Borough Council (date?)
-* An ecology survey was carried out by Wild Okey (date?)
+* An ecology survey was carried out by Wild Oke (date?)
 
 ### Community Right to Reclaim Land
 

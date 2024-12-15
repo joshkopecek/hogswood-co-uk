@@ -36,9 +36,8 @@ header_pages:
   - history.markdown
   - ecology.markdown
   # - people.markdown
-  - planning.markdown
-  - surveys.markdown
-  - species.markdown
+  - community.markdown
+  # - surveys.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
