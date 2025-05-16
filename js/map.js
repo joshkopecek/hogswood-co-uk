@@ -7,7 +7,7 @@ const map = new mapboxgl.Map({
 })
 
 map.on('style.load', () => {
-  map.setFog({})
+  // map.setFog({})
 })
 
 map.on('load', () => {
@@ -23,15 +23,37 @@ map.on('load', () => {
     'type': 'fill',
     'source': 'hogswood',
     'paint': {
+      'line-color': '#FFFFFF',
+      'line-width': 5,
       'fill-color': '#237954',
       'fill-opacity': 0.8,
     }
   })
 
+  map.addLayer({
+    'id': 'outline',
+    'type': 'line',
+    'source': 'hogswood',
+    'layout': {},
+    'paint': {
+      'line-color': '#063d0f',
+      'line-width': 3
+    }
+  });
+
   map.on('click', 'hogswood-layer', (e) => {
+    console.log(e.features[0].properties)
+    const html = `<div>
+      <p>
+        INSPIREID: ${e.features[0].properties.INSPIREID}
+      </p>
+      <p>
+        Land registry description: ${e.features[0].properties.LAND_REG_DESC}
+      </p>
+    </div>`
     new mapboxgl.Popup()
       .setLngLat(e.lngLat)
-      .setHTML(e.features[0].properties.INSPIREID)
+      .setHTML(html)
       .addTo(map)
   })
 

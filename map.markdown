@@ -6,3 +6,5 @@ permalink: /map/
 ---
 
 ## Map
+
+Explore an interactive map of the Hog's Wood site

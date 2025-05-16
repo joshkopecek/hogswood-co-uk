@@ -22,7 +22,8 @@
         "LABEL": 15560770,
         "NATIONALCADASTRALREFERENCE": 15560770,
         "VALIDFROM": "2008-12-04T14:41:58.667Z",
-        "BEGINLIFESPANVERSION": "2008-12-04T14:41:58.667Z"
+        "BEGINLIFESPANVERSION": "2008-12-04T14:41:58.667Z",
+        "fill": "#FF00FF"
       },
       "bbox": [
         -3.998531181989337,
@@ -135,7 +136,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#e00b0b",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "LAND_REG_DESC": "land and buildings on the North East side of Northfield Road, Okehampton (Freehold)"
       },
       "bbox": [
         -4.000885601316864,
@@ -696,6 +698,7 @@
       "type": "Feature",
       "properties": {
         "gml_id": "PREDEFINED.fid-399660b2_19380b5b0bb_-ee9",
+        "LAND_REG_DESC": "Land on the east side of Northfield Road, Okehampton (Freehold)",
         "INSPIREID": 15559287,
         "LABEL": 15559287,
         "NATIONALCADASTRALREFERENCE": 15559287,

@@ -33,6 +33,7 @@ plugins:
 
 header_pages:
   - index.markdown
+  - map.markdown
   - history.markdown
   - ecology.markdown
   # - people.markdown
