@@ -5,10 +5,26 @@ description: A website dedicated to a small woodland site in Okehampton, Hog's W
 image: /assets/images/tree.jpg
 ---
 
-{: style="text-align: center" }
+---
+
+{: style="text-align: center; margin-top: 24px;" }
 # Hog's Wood
 
 {: style="text-align: center" }
+## SAVE THE DATE
+
+{: style="text-align: center; font-weight: bold; font-size: 36px;" }
+17th September 2025 - 7pm
+
+{: style="text-align: center" }
+General meeting to discuss the future of Hog’s Wood
+
+{: style="text-align: center" }
+[At the Ockment Centre](https://maps.app.goo.gl/b6FZmnv3kMpanjgP7){:target="_blank"}
+
+---
+
+{: style="text-align: center; margin-top: 48px;" }
 ### Protecting our local green space for wildlife and the community.
 
 Hogs Wood is an area of land in Okehampton between Northfield Road, Crediton Road, Neville Road, Wonnacotts Road, and North Road (part of it formerly known as Wonnacotts Meadow). The name ‘Hogs Wood’ identifies the whole area as a place that has evolved into a mixed woodland with meadow, supporting diverse habitats and species including the hedgehog. 
