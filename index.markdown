@@ -27,7 +27,7 @@ General meeting to discuss the future of Hog’s Wood
 {: style="text-align: center; margin-top: 24px;" }
 ## West Devon Borough Council Announcement
 
-[https://bit.ly/moorlanderhogswood](Moorlander article on announcement)
+[Moorlander article on announcement](https://bit.ly/moorlanderhogswood){:target="_blank"}
 
 West Devon Borough Council plans to develop 30-40 homes on two acres of land next to Wonnacotts Road in Okehampton town centre 
 
