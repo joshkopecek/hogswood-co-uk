@@ -24,6 +24,37 @@ General meeting to discuss the future of Hog’s Wood
 
 ---
 
+{: style="text-align: center; margin-top: 24px;" }
+## West Devon Borough Council Announcement
+
+[https://bit.ly/moorlanderhogswood](Moorlander article on announcement)
+
+West Devon Borough Council plans to develop 30-40 homes on two acres of land next to Wonnacotts Road in Okehampton town centre 
+
+Total cost £7.6m, £100,000 allocated for initial planning
+
+Original capacity from previous planning application was 60-70 houses but scaled back after public feedback requesting more green space 
+
+60% of the area will remain as woodland
+
+Public consultation planned 
+
+Mix of social rented homes and supported living accommodation for people with learning disabilities 
+£2 million contribution secured from Homes England 
+
+Remaining costs to be recouped through rental income 
+
+218 households with local connection to Okehampton currently on housing waiting list 
+
+Site constraints include trees, flood zones, contamination, and high water table 
+
+£100,000 will fund pre-planning assessment, design work, surveys, and ecology studies before submitting planning application 
+
+This development represents West Devon's response to the local housing crisis while balancing community concerns about preserving green space.
+
+
+---
+
 {: style="text-align: center; margin-top: 48px;" }
 ### Protecting our local green space for wildlife and the community.
 
