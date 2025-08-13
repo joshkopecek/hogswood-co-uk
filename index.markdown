@@ -70,6 +70,8 @@ This website brings together its history, the current local groups and local gov
 
 Do you have any information about Hog's Wood? 
 
+If you are able to send us any information, please do. The link below is for a space to upload any documents, and we will be informed when you send them. 
+
 <button type="button" onclick="window.open('https://www.dropbox.com/request/ikF11e4zFfaoyUnv8ML5', '_blank');" command="show-modal">UPLOAD FILES</button>
 
 <br />
