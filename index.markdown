@@ -16,6 +16,9 @@ image: /assets/images/tree.jpg
 {: style="text-align: center; font-weight: bold; font-size: 36px;" }
 17th September 2025 - 7pm
 
+{: style="text-align: center; margin-top: 24px;" }
+<button type="button" class="h1" onclick="location.href='https://www.eventbrite.com/e/hogs-wood-collaboration-cafe-meeting-tickets-1678552709339'"><b>REGISTER NOW</b></button>
+
 {: style="text-align: center" }
 General meeting to discuss the future of Hog’s Wood
 
