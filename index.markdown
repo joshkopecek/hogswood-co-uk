@@ -21,9 +21,9 @@ Curious about visiting Hog's Wood? Find it easily on the map here:
 
 ## Community meeting
 
-We had a fantastic meeting at the Ockment Centre on the 17th September. Tavistock Times kindly did a write up on the event, which you can read on the link below.
+We had a fantastic meeting at the Ockment Centre on the 17th September. Okehampton Times kindly did a write up on the event, which you can read on the link below.
 
-[Tavistock Times article](https://www.tavistock-today.co.uk/news/okehampton-locals-rally-to-save-wood-and-wildlife-834865)
+[Okehampton Times article](https://www.okehampton-today.co.uk/news/okehampton-locals-rally-to-save-wood-and-wildlife-834865)
 
 There's a writeup of the responses from the collaboration café available here.
 
