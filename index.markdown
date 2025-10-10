@@ -10,22 +10,29 @@ image: /assets/images/tree.jpg
 {: style="text-align: center; margin-top: 24px;" }
 # Hog's Wood
 
-{: style="text-align: center" }
-## SAVE THE DATE
+## Visit Hog's Wood
 
-{: style="text-align: center; font-weight: bold; font-size: 36px;" }
-17th September 2025 - 7pm
+Curious about visiting Hog's Wood? Find it easily on the map here:
 
-{: style="text-align: center; margin-top: 24px;" }
-<button type="button" class="h1" onclick="location.href='https://www.eventbrite.com/e/hogs-wood-collaboration-cafe-meeting-tickets-1678552709339'"><b>REGISTER NOW</b></button>
+<button onclick="window.open('https://maps.app.goo.gl/wMxfG3SjT8CyqLwG9', '_blank')" class="button">Open map</button>
 
-{: style="text-align: center" }
-General meeting to discuss the future of Hog’s Wood
-
-{: style="text-align: center" }
-[At the Ockment Centre](https://maps.app.goo.gl/b6FZmnv3kMpanjgP7){:target="_blank"}
 
 ---
+
+## Community meeting
+
+We had a fantastic meeting at the Ockment Centre on the 17th September. Tavistock Times kindly did a write up on the event, which you can read on the link below.
+
+[Tavistock Times article](https://www.tavistock-today.co.uk/news/okehampton-locals-rally-to-save-wood-and-wildlife-834865)
+
+There's a writeup of the responses from the collaboration café available here.
+
+[Writeup](/meeting-17th-sept-25)
+
+And from the findings we produced a word cloud, representing the most used words during the meeting.
+
+![hog's wood word cloud](/assets/images/hogs-wood-word-cloud.png)
+
 
 {: style="text-align: center; margin-top: 24px;" }
 ## West Devon Borough Council Announcement
