@@ -5,11 +5,21 @@ description: A website dedicated to a small woodland site in Okehampton, Hog's W
 image: /assets/images/tree.jpg
 ---
 
+{: style="text-align: center; margin-top: 24px;" }
+## Hog's Wood
+
+### West Devon Borough Council announce public consultation
+
+WDBC have announced a public consultation on the development of the site on
+
+__Saturday 6th December__  
+10:00-12:00  
+Ockment Centre, 31 North St, Okehampton EX20 1AR  
+
+ 
 ---
 
 {: style="text-align: center; margin-top: 24px;" }
-# Hog's Wood
-
 ## Visit Hog's Wood
 
 Curious about visiting Hog's Wood? Find it easily on the map here:
