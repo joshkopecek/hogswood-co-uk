@@ -5,17 +5,13 @@ description: A website dedicated to a small woodland site in Okehampton, Hog's W
 image: /assets/images/tree.jpg
 ---
 
-{: style="text-align: center; margin-top: 24px;" }
-## Hog's Wood
+[![change-org](/assets/images/change-org-social-media.jpg)](https://www.change.org/hogs-wood-okehampton)
 
-### West Devon Borough Council announce public consultation
+<div style="height: 40px"></div>
 
-WDBC have announced a public consultation on the development of the site on
+### [Sign our petition now](https://www.change.org/hogs-wood-okehampton) and support us in saving Hog's Wood from development!
 
-__Saturday 6th December__  
-10:00-12:00  
-Ockment Centre, 31 North St, Okehampton EX20 1AR  
-
+<div style="height: 40px"></div>
  
 ---
 
@@ -29,58 +25,12 @@ Curious about visiting Hog's Wood? Find it easily on the map here:
 
 ---
 
-## Community meeting
-
-We had a fantastic meeting at the Ockment Centre on the 17th September. Okehampton Times kindly did a write up on the event, which you can read on the link below.
-
-[Okehampton Times article](https://www.okehampton-today.co.uk/news/okehampton-locals-rally-to-save-wood-and-wildlife-834865)
-
-There's a writeup of the responses from the collaboration café available here.
-
-[Writeup](/meeting-17th-sept-25)
-
-And from the findings we produced a word cloud, representing the most used words during the meeting.
-
-![hog's wood word cloud](/assets/images/hogs-wood-word-cloud.png)
-
-
-{: style="text-align: center; margin-top: 24px;" }
-## West Devon Borough Council Announcement
-
-[Moorlander article on announcement](https://bit.ly/moorlanderhogswood){:target="_blank"}
-
-West Devon Borough Council plans to develop 30-40 homes on two acres of land next to Wonnacotts Road in Okehampton town centre 
-
-Total cost £7.6m, £100,000 allocated for initial planning
-
-Original capacity from previous planning application was 60-70 houses but scaled back after public feedback requesting more green space 
-
-60% of the area will remain as woodland
-
-Public consultation planned 
-
-Mix of social rented homes and supported living accommodation for people with learning disabilities 
-£2 million contribution secured from Homes England 
-
-Remaining costs to be recouped through rental income 
-
-218 households with local connection to Okehampton currently on housing waiting list 
-
-Site constraints include trees, flood zones, contamination, and high water table 
-
-£100,000 will fund pre-planning assessment, design work, surveys, and ecology studies before submitting planning application 
-
-This development represents West Devon's response to the local housing crisis while balancing community concerns about preserving green space.
-
-
----
-
 {: style="text-align: center; margin-top: 48px;" }
 ### Protecting our local green space for wildlife and the community.
 
 Hogs Wood is an area of land in Okehampton between Northfield Road, Crediton Road, Neville Road, Wonnacotts Road, and North Road (part of it formerly known as Wonnacotts Meadow). The name ‘Hogs Wood’ identifies the whole area as a place that has evolved into a mixed woodland with meadow, supporting diverse habitats and species including the hedgehog. 
 
-This website brings together its history, the current local groups and local government interests in Hogs Wood. It highlights the knowledge gained through wildlife surveying, local history and people’s stories, research into ownership and the local plan, and highlights opportunities to get involved. The aim is to work together with stakeholders, finding a way forward to permanently protect Hogs Wood for the benefit of wildlife, the environment and people.
+Explore its history, the current local groups and local government interests in Hogs Wood. It highlights the knowledge gained through wildlife surveying, local history and people’s stories, research into ownership and the local plan, and highlights opportunities to get involved. The aim is to work together with stakeholders, finding a way forward to permanently protect Hogs Wood for the benefit of wildlife, the environment and people.
 
 <br />
 
@@ -112,21 +62,3 @@ If you are able to send us any information, please do. The link below is for a s
 * Signage
 
 <br />
-
-<hr />
-
-## Links
-
-[Transition Town Okehampton website](https://cagdevon.org.uk/ourgroups/transition-town-okehampton/) or [facebook](https://www.facebook.com/profile.php?id=61556834173991)
-
-Wild Oke [facebook](https://www.facebook.com/groups/wildoke/)
-
-[West Devon Borough Council Councillors website](https://www.westdevon.gov.uk/your-council/councillors-and-committees/your-councillors/councillors-ward)
-
-[Devon Wildlife Trust website](https://www.devonwildlifetrust.org/)
-
-![satellite](/assets/images/maps/satellite.jpg)
-
-![modern-os](/assets/images/maps/modern-os.jpg)
-
-![modern-perimeter](/assets/images/maps/modern-perimeter.jpg)

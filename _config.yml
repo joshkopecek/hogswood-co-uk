@@ -33,12 +33,14 @@ plugins:
 
 header_pages:
   - index.markdown
+  - updates.markdown
   - map.markdown
   - history.markdown
   - ecology.markdown
   # - people.markdown
   - community.markdown
   # - surveys.markdown
+  - links.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
