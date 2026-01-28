@@ -5,6 +5,18 @@ description: A website dedicated to a small woodland site in Okehampton, Hog's W
 image: /assets/images/tree.jpg
 ---
 
+![pub-quiz](/assets/images/pub-quiz-1.jpg)
+
+## PUB QUIZ!
+
+Come along to the [Plume of Feathers](https://www.facebook.com/okehamptonplume/) and join our quiz on Tuesday the 10th February at 19:30.
+
+Pop in, [email](mailto:geoff@caskhouse.co.uk) or phone ([07496 363730](tel:+447496363730)) the Plume to book or organise your table or group.
+
+---
+
+<div style="height: 40px"></div>
+
 [![change-org](/assets/images/change-org-social-media.jpg)](https://www.change.org/hogs-wood-okehampton)
 
 <div style="height: 40px"></div>
